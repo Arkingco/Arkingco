@@ -1,11 +1,10 @@
+[![kipark's 42 stats](https://badge42.herokuapp.com/api/stats/kipark)](https://github.com/JaeSeoKim/kipark)
+
 <div align = center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArkingco%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-[![kipark's 42 stats](https://badge42.herokuapp.com/api/stats/kipark)](https://github.com/JaeSeoKim/kipark)
-
-
-### Hi ㅎㅎ 
+### Hi i'm baby developer
 
 <!--
 **Arkingco/Arkingco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
