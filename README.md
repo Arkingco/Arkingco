@@ -1,6 +1,6 @@
 [![kipark's 42 stats](https://badge42.herokuapp.com/api/stats/kipark)](https://github.com/JaeSeoKim/kipark)
 
-### Hi i'm baby developer
+### Hi ><
 
 <!--
 **Arkingco/Arkingco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
